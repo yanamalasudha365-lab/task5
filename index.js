@@ -1,6 +1,6 @@
 //Part 1: Array Manipulation Methods
 // Create an array of 5 fruits. Add 3 fruits at the end using push() and print the array.
-let arr=["apple","kiwi","banana"];
+let arr=["apple","kiwi","banana","grapes","mango"];
 arr.push("strawberry","orange");
 console.log(arr);
 //2. Create an array of 6 numbers. Remove the last element using pop() and print the result.
